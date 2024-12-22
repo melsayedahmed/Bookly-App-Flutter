@@ -10,3 +10,4 @@
 Custom AppBar and Search Functionality for easy navigation.
 Multiple Views: Splash View, Home View, and Book Details View.
 Access to a library of free books# Bookly-App-Flutter
+# Bookly-App-Flutter
